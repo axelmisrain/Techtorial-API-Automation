@@ -1,1 +1,1 @@
-# Techtorial API Automation: Postman, RestAssured, Cucumber, JUpiter, Lombok, Jackson  
+# Techtorial API Automation: Postman, RestAssured, Cucumber, JUnit, Lombok, Jackson  
