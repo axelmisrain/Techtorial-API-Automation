@@ -4,9 +4,9 @@
 This document outlines the automation testing plan for the Techtorial API. The goal is to ensure the API functions correctly by using various tools and methods, including providing an authorization Bearer token for successful login.
 
 ## Test Cases
-1 Validate companies information
-2 User login succesfully
-3 Validate user that user information is correct.
+1. Validate companies information
+2. User login succesfully
+3. Validate user that user information is correct.
 
 ## Steps to automate testing
 
